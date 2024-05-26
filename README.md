@@ -18,7 +18,8 @@ The LangChain RAG system integrates external data sources, such as the "Leave No
 
 4. **Question-Answering Pipeline**: Manages the flow of information, from receiving user questions to generating responses. It orchestrates the interaction between the retrieval module and Gemini 1.5 Pro LLM.
 
-Usage
+## Usage
+
 To use the LangChain RAG system for answering questions on the "Leave No Context Behind" paper, follow these steps:
 
 1. **Setup**: Ensure that the LangChain framework and Gemini 1.5 Pro are properly installed and configured.
